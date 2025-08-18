@@ -8,7 +8,7 @@ function App() {
 
        <div className='header'>
       <div>
-        <img src="https://3extent.vercel.app/Assets/3extent.png" width="60"/>
+        <img src="https://3extent.vercel.app/Assets/3extent.png" width="70"/>
       </div>
       <div>
         <a href="" className='headerlink'>Partenerwithus</a>
@@ -23,8 +23,9 @@ function App() {
         Fully tested,graded and ready for sale</div>
       </div>
       {/* information section start from here */}
+      <div className='secondbackgrount'>
 
-      <div>At 3_EXTENT Pvt. Ltd., we specialize in the bulk supply of high-quality, 
+      <div className='firstdescription'>At 3_EXTENT Pvt. Ltd., we specialize in the bulk supply of high-quality, 
         pre-owned smartphones to resellers, retailers, and businesses across India. With a strong focus on quality
         , affordability, and trust, we help you grow your business by giving you access to the best devices at compe
         titive wholesale prices.</div>
@@ -145,7 +146,7 @@ function App() {
     
     
     
-    
+    </div>
     </div>
 
   

@@ -1,6 +1,9 @@
 
 
 .background{
+    /* background-color: rgb(0 0 0 / 0.1);  */
+  }
+  .secondbackgrount{
     background-color: rgb(0 0 0 / 0.1); 
   }
 .header {
@@ -26,12 +29,22 @@
   background-position: center;
 
 }
+  .firstdescription{
+    padding-top: 30px;
+   width:95%;
+   margin: auto;
+  }
 
 .imagetext {
   color: white;
   font-size: 30px;
   padding-top: 400px;
   padding-left: 45px;
+}
+.firstdescription{
+  width:95%;
+  margin: auto;
+  padding:35px;
 }
 
 .textandimgesection {
